@@ -1,2 +1,4 @@
-# Apisec official repo for filing bugs, vulnerabilities, features, etc.
+### Apisec official repo
+ - File bugs, vulnerabilities, and features.
+ 
 [Report issue](https://github.com/apisec-inc/Support/issues)
