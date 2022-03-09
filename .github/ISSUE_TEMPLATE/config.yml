@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Apisec Release Notes
+    url: https://apisec-inc.github.io/releases
+    about: Please look for release updates here.
+  - name: Apisec Documentation
+    url: https://www.apisec.ai/documentation/
+    about: Please go through our documentation.
