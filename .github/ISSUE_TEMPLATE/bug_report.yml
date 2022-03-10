@@ -3,7 +3,7 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "public"]
 assignees:
-  - intesar
+  - muqeetkhan20
 body:
   - type: dropdown
     id: severity
