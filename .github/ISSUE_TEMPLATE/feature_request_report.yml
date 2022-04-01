@@ -1,5 +1,5 @@
 name: Feature Request
-description: File a feature request report
+description: Suggest an idea or improve a current feature
 title: "[Feature]: "
 labels: ["enhancement", "public"]
 assignees:
@@ -40,5 +40,5 @@ body:
         ##### How we handle features: 
         - Duplicate, wont-fix, invalid tagged submissions are closed automatically.
         - Implemented and released features are closed automatically.
-        - Implemented features go live as part of our weekend.
+        - Implemented features go live as part of our weekend releases.
         - To escalate an issue, please reach us at our support email handle.
