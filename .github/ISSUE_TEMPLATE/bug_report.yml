@@ -12,7 +12,7 @@ body:
       description: How severe is this issue?
       options:
         - Blocker
-        - Non-Blocker
+        - P2
     validations:
       required: true     
   - type: textarea
