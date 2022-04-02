@@ -3,4 +3,4 @@
 ## Apisec's customer support official repository
  - File bugs, vulnerabilities, and features.
  
-[Report issue](https://github.com/apisec-inc/Support/issues)
+[Go to the issues section](https://github.com/apisec-inc/Support/issues)
