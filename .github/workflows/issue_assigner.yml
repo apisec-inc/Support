@@ -10,16 +10,5 @@ jobs:
       - uses: Naturalclar/issue-action@v2.0.2
         with:
           title-or-body: "both"
-          parameters: >
-          '[ 
-           {"keywords": ["blocker", "blocked"], "labels": ["blocker"], "assignees": ["Mohammed-Luqman-Shareef","Abdullah-Akbar","abdul-hai-apisec","sarasheed","syedimranapisecai","mohdrashid1"]},
-           {"keywords": ["ui"], "labels": ["ui"], "assignees": ["MuqeedA","shahidabdul","shamiulla-apisec"]},
-           {"keywords": ["playbook"], "labels": ["playbook"], "assignees": ["Mohammed-Luqman-Shareef"]},
-           {"keywords": ["scanner"], "labels": ["scanner"], "assignees": ["sarasheed","syedimranapisecai","mohdrashid1"]},
-           {"keywords": ["false positives"], "labels": ["false-positive"], "assignees": ["habeebvulla"]},
-           {"keywords": ["postman", "graphql"], "labels": ["converter"], "assignees": ["ImranShaik065"]},
-           {"keywords": ["apigee", "gateway"], "labels": ["gateway"], "assignees": ["Abedeen1" "abdul-hai-apisec" "Abdullah-Akbar"]},
-           {"keywords": ["okta", "sso", "pen testing", "penetration", "pentest"], "labels": ["pentest"], "assignees": ["abdul-hai-apisec"]},
-           {"keywords": ["netbanking"], "labels": ["pentest"], "assignees": ["ImranShaik065"]}
-           ]'
+          parameters: '[ {"keywords": ["blocker", "blocked"], "labels": ["blocker"], "assignees": ["Mohammed-Luqman-Shareef","Abdullah-Akbar","abdul-hai-apisec","sarasheed","syedimranapisecai","mohdrashid1"]}, {"keywords": ["ui"], "labels": ["ui"], "assignees": ["MuqeedA","shahidabdul","shamiulla-apisec"]}, {"keywords": ["playbook"], "labels": ["playbook"], "assignees": ["Mohammed-Luqman-Shareef"]}, {"keywords": ["scanner"], "labels": ["scanner"], "assignees": ["sarasheed","syedimranapisecai","mohdrashid1"]},{"keywords": ["false positives"], "labels": ["false-positive"], "assignees": ["habeebvulla"]},{"keywords": ["postman", "graphql"], "labels": ["converter"], "assignees": ["ImranShaik065"]},{"keywords": ["apigee", "gateway"], "labels": ["gateway"], "assignees": ["Abedeen1" "abdul-hai-apisec" "Abdullah-Akbar"]},{"keywords": ["okta", "sso", "pen testing", "penetration", "pentest"], "labels": ["pentest"], "assignees": ["abdul-hai-apisec"]},{"keywords": ["netbanking"], "labels": ["pentest"], "assignees": ["ImranShaik065"]}]'
           github-token: "${{ secrets.GITHUB_TOKEN }}"
