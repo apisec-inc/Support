@@ -22,6 +22,6 @@ jobs:
            {"keywords": ["postman", "graphql"], "labels": ["converter"], "assignees": ["ImranShaik065"]},
            {"keywords": ["apigee", "gateway"], "labels": ["gateway"], "assignees": ["Abedeen1" "abdul-hai-apisec" "Abdullah-Akbar"]},
            {"keywords": ["okta", "sso", "pen testing", "penetration", "pentest"], "labels": ["pentest"], "assignees": ["abdul-hai-apisec"]},
-           {"keywords": ["netbanking"], "labels": ["pentest"], "assignees": ["ImranShaik065"]},
+           {"keywords": ["netbanking"], "labels": ["pentest"], "assignees": ["ImranShaik065"]}
            ]'
           github-token: "${{ secrets.GITHUB_TOKEN }}"
