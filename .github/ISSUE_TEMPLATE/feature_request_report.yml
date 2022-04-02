@@ -1,7 +1,7 @@
 name: Feature Request
 description: Suggest an idea or improve a current feature
 title: "[Feature]: "
-labels: ["enhancement", "public"]
+labels: ["enhancement", "non-triaged"]
 assignees:
   - intesar
 body:
