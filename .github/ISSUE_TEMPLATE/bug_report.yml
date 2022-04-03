@@ -1,5 +1,5 @@
 name: Bug Report
-description: Report a bug/issue. IRT <12 hours for a blocker.
+description: Report a bug/issue.
 title: "[Bug]: "
 labels: ["bug"]
 assignees:
