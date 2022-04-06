@@ -1,7 +1,7 @@
 name: Due Date Workflow
 on:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '0 0 * * *'
 jobs:
   Ubuntu:
     name: Add labels to issues
