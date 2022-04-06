@@ -1,0 +1,17 @@
+# .github/workflows/pin.yml 
+on: 
+  issues:
+    types: [labeled]
+name: pin issue based on label
+jobs:
+  pinAnIssue:
+    name: pin an issue
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: pin an issue
+      uses: bdougie/issue-pin-by-label@master
+
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        LABEL_NAME: blocker
