@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Feature Request
+    url: https://github.com/apisec-inc/Feature-Request/issues
+    about: Suggest an idea or an improvement
   - name: Apisec Release Notes
     url: https://apisec-inc.github.io/releases
     about: Check our newly released features and security fixes
