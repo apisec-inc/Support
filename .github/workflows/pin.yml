@@ -14,5 +14,5 @@ jobs:
 
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        LABEL_NAME: enhancement
-#        LABEL_NAME: blocker
+        LABEL_NAME: blocker
+#        LABEL_NAME: enhancement
