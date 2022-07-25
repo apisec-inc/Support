@@ -4,6 +4,7 @@ title: "[Bug]: "
 labels: ["bug", "non-triaged"]
 assignees:
   - muqeetkhan20
+  - atef-aa
 body:
   - type: dropdown
     id: severity
