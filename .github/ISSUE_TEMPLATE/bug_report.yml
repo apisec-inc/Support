@@ -12,8 +12,9 @@ body:
       label: Severity
       description: How severe is this issue?
       options:
-        - Blocker
-        - Medium
+        - Blocker (No Workaround Available)
+        - Bug 
+        - UX Improvement
     validations:
       required: true     
   - type: textarea
