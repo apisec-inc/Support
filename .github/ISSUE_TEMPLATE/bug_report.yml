@@ -1,6 +1,6 @@
 name: Bug Report
 description: Report a bug/issue
-title: ""
+title: "[Report]: "
 labels: ["non-triaged"]
 assignees:
   - muqeetkhan20
